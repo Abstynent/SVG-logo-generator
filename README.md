@@ -5,6 +5,10 @@
   ## Description
   The SVG Logo Generator project aims to develop a web application that allows users to create custom logos using Scalable Vector Graphics (SVG) technology. The web application will provide users with a user-friendly interface that allows them to choose from 3 pre-designed shapes: Circle, Triangle and Square. Users will be able to adjust the text and shape color.
 
+
+https://user-images.githubusercontent.com/87772337/230423386-09d53033-50f1-46ab-bfdb-a33ce7eb8261.mp4
+
+
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
